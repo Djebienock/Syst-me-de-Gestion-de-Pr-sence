@@ -1,6 +1,6 @@
 # Systeme-de-Gestion-de-Presence
  
-![Système de Gestion de Présence](banner.png)
+![Système de Gestion de Présence](SysPresen.png)
  
 ## Aperçu
  
